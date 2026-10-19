@@ -4,7 +4,7 @@ Hi! I'm Khizer Abbas. This README mirrors my portfolio: real production work in 
 
 ### Hi, I'm Khizer Abbas
 
-**Software Engineer** focused on **multi-tenant SaaS**, **POS systems**, and **AI-driven automation**. Open to full-time roles.
+**Laravel / PHP Backend Software Engineer** based in **Lahore, Pakistan**, focused on **multi-tenant SaaS**, **POS systems**, and **AI integrations**. Open to full-time roles.
 
 I build production Laravel backends — queues, jobs, scheduling, tenant isolation — plus payment rails, tax APIs, and local-LLM agents that ship for real merchants.
 
@@ -13,7 +13,7 @@ I build production Laravel backends — queues, jobs, scheduling, tenant isolati
 - Retail **FBR** tax invoicing at sale time (Hamza Enterprise POS)
 - Custom e-commerce, Shopify Liquid themes, and LMS / real-estate backends
 
-**Portfolio:** [khizer-portfolio.pages.dev](https://khizer-portfolio.pages.dev/)
+**Portfolio:** [khizerabbas.com](https://khizerabbas.com/)
 
 ---
 
@@ -31,7 +31,7 @@ I build production Laravel backends — queues, jobs, scheduling, tenant isolati
 **AI, DevOps & delivery**  
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Also:** Ollama LLMs · WhatsApp API · n8n · JazzCash · FBR API · Multi-tenancy · Queues / Jobs / Scheduling
+**Also:** Ollama LLMs · WhatsApp API · n8n · JazzCash · FBR API · Multi-tenancy · Queues / Jobs / Scheduling · Eloquent · Vite · Linux / PHP-FPM · Wrangler
 
 ---
 
@@ -39,17 +39,18 @@ I build production Laravel backends — queues, jobs, scheduling, tenant isolati
 
 - **[HisabKarLay SaaS POS](https://system.hisabkarlay.com/)** — Multi-tenant POS & business management; JazzCash live, queues, Nginx.  
   *Laravel · Multi-tenancy · JazzCash · Nginx*  
-  [Case study](https://khizer-portfolio.pages.dev/work/hisabkarlay)
+  [Case study](https://khizerabbas.com/work/hisabkarlay)
 
 - **[AI CRM WhatsApp Agent](https://aicrmbot.hisabkarlay.com/)** — Conversational CRM with local Ollama + WhatsApp inside Laravel.  
   *Laravel · Ollama · WhatsApp API*
 
-- **[Hamza Enterprise POS](https://hamzaent.org/)** — Retail POS with FBR tax authorization on every sale.  
+- **[Hamza Enterprise POS](https://khizerabbas.com/work/hamza-fbr)** — Retail POS with FBR tax authorization on every sale.
   *Laravel · FBR API · POS*  
-  [Case study](https://khizer-portfolio.pages.dev/work/hamza-fbr)
+  [Case study](https://khizerabbas.com/work/hamza-fbr)
 
-- **[RiseCart](https://risecart.realrisesmcprivatelimited.com/)** — Custom e-commerce from scratch (catalog → paid order).  
-  *Laravel · Tailwind · MySQL*
+- **[RiseCart](https://risecart.realrisesmcprivatelimited.com/)** — Headless custom e-commerce from scratch (catalog → paid order).
+  *Next.js · Tailwind · Express · MongoDB*
+  [Case study](https://khizerabbas.com/work/risecart)
 
 - **[Aaliyans](https://www.aaliyans.com/)** — Custom Shopify Liquid storefront.  
   *Shopify · Liquid*
@@ -63,8 +64,9 @@ I build production Laravel backends — queues, jobs, scheduling, tenant isolati
 
 ### Experience
 
+- **Software Engineer** — PipsGuard · *Oct 2026 – Present*
 - **Web Developer / Software Engineer** — HisabKarLay Software House · Lahore · *Jan 2024 – Oct 2026*
-- **Web Development Intern** — Akhuwat College · Kasur · *Oct 2023 – Dec 2023*
+- **Web Development Intern** — Akhuwat College · Kasur · *Sep 2023 – Dec 2023*
 
 **Education:** BS Information Technology — University of the Punjab (2020–2024)  
 **Also:** Amal Career Fellowship · Samsung AI Certification
@@ -73,9 +75,9 @@ I build production Laravel backends — queues, jobs, scheduling, tenant isolati
 
 ### Let's connect
 
-- Portfolio: [khizer-portfolio.pages.dev](https://khizer-portfolio.pages.dev/)
+- Portfolio: [khizerabbas.com](https://khizerabbas.com/)
 - LinkedIn: [linkedin.com/in/khizer-abbas-](https://www.linkedin.com/in/khizer-abbas-/)
-- Email: [khizeralikhan78612145@gmail.com](mailto:khizeralikhan78612145@gmail.com)
-- Resume: [Download PDF](https://khizer-portfolio.pages.dev/Khizer_Abbas_Resume.pdf)
+- Email: [khizer@khizerabbas.com](mailto:khizer@khizerabbas.com)
+- Resume: [Download PDF](https://khizerabbas.com/Khizer_Abbas_Resume.pdf)
 
 Open to full-time roles — Laravel, multi-tenant SaaS, payments, and AI agents.
